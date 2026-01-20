@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rushikesh Embadwar
+- 👋 Hi, I’m Rushikesh Ravindra
 - 👀 I’m interested in Native Android Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Android projects
