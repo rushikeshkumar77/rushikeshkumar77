@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rushikesh Ravindra
-- 👀 I’m interested in Native Android Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Android projects
+- 👀 I’m interested in DevOps & Cloud Engineering
+- 💞️ I’m looking to collaborate on Devops Projects
 - 📫 How to reach me ...
 
 <!---
